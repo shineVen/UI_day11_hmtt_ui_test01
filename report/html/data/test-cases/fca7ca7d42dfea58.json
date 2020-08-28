@@ -1,0 +1,193 @@
+{
+  "uid" : "fca7ca7d42dfea58",
+  "name" : "test_mp_login",
+  "fullName" : "case.mp.test_mp_login.TestMpLogin#test_mp_login",
+  "historyId" : "7a47067eafb504cb502ef73f7ac4240e",
+  "time" : {
+    "start" : 1598518269590,
+    "stop" : 1598518271652,
+    "duration" : 2062
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1598518263367,
+      "stop" : 1598518269589,
+      "duration" : 6222
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "输入用户名",
+      "time" : {
+        "start" : 1598518269592,
+        "stop" : 1598518270095,
+        "duration" : 503
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "username",
+        "value" : "'13911111111'"
+      } ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "输入密码",
+      "time" : {
+        "start" : 1598518270096,
+        "stop" : 1598518270462,
+        "duration" : 366
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "code",
+        "value" : "'246810'"
+      } ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "点击登录",
+      "time" : {
+        "start" : 1598518270462,
+        "stop" : 1598518270601,
+        "duration" : 139
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 3,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1598518271655,
+      "stop" : 1598518271655,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "tag",
+    "value" : "run(order=2)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case.mp"
+  }, {
+    "name" : "suite",
+    "value" : "test_mp_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestMpLogin"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-EKFEJJK"
+  }, {
+    "name" : "thread",
+    "value" : "8004-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.mp.test_mp_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ {
+      "uid" : "e4ac55fcaaaf16e8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598517167828,
+        "stop" : 1598517169663,
+        "duration" : 1835
+      }
+    }, {
+      "uid" : "7e4828bb2b5cf050",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598517026422,
+        "stop" : 1598517028699,
+        "duration" : 2277
+      }
+    }, {
+      "uid" : "4e6466524a3dc04d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598514919723,
+        "stop" : 1598514921579,
+        "duration" : 1856
+      }
+    }, {
+      "uid" : "55f595d3ebfb57d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598433551903,
+        "stop" : 1598433553611,
+        "duration" : 1708
+      }
+    }, {
+      "uid" : "aceec2fcf62440a2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598433444487,
+        "stop" : 1598433446074,
+        "duration" : 1587
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "run(order=2)" ]
+  },
+  "source" : "fca7ca7d42dfea58.json",
+  "parameterValues" : [ ]
+}

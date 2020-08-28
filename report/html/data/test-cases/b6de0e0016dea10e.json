@@ -1,0 +1,113 @@
+{
+  "uid" : "b6de0e0016dea10e",
+  "name" : "test_aduit_ari_pass",
+  "fullName" : "case.mis.test_aritcal_manage.TestAritcalManage#test_aduit_ari_pass",
+  "historyId" : "8b31bd07bfc41c012898d6d2a2050d59",
+  "time" : {
+    "start" : 1598433594316,
+    "stop" : 1598433614763,
+    "duration" : 20447
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1598433594316,
+      "stop" : 1598433594316,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e8b244d7b9738253",
+      "name" : "log",
+      "source" : "e8b244d7b9738253.txt",
+      "type" : "text/plain",
+      "size" : 99
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1598433614764,
+      "stop" : 1598433614764,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "run(order=103)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case.mis"
+  }, {
+    "name" : "suite",
+    "value" : "test_aritcal_manage"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestAritcalManage"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-EKFEJJK"
+  }, {
+    "name" : "thread",
+    "value" : "10748-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.mis.test_aritcal_manage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "cd722aac944fd386",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598433495382,
+        "stop" : 1598433520078,
+        "duration" : 24696
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "run(order=103)" ]
+  },
+  "source" : "b6de0e0016dea10e.json",
+  "parameterValues" : [ ]
+}

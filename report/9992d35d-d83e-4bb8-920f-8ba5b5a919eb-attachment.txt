@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_aritcal_manage.py:40 审核文章的标题为: TEXT_TEXT_20200826171737

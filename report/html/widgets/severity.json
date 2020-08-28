@@ -1,0 +1,91 @@
+[ {
+  "uid" : "1d2ae6e9b7d754c3",
+  "name" : "test_mis_login",
+  "time" : {
+    "start" : 1598433593286,
+    "stop" : 1598433594303,
+    "duration" : 1017
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f2a3f188ad56ef62",
+  "name" : "test_ari_publish[TEXT_TEXT_{}-测试测试测试测试测试测试测试-测试开发-新增文章成功]",
+  "time" : {
+    "start" : 1598518284175,
+    "stop" : 1598518299976,
+    "duration" : 15801
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "62791f0139e2fafc",
+  "name" : "test_begin",
+  "time" : {
+    "start" : 1598518263362,
+    "stop" : 1598518263362,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f23f0ecd60ed8e17",
+  "name" : "test_end",
+  "time" : {
+    "start" : 1598518300000,
+    "stop" : 1598518306308,
+    "duration" : 6308
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b6de0e0016dea10e",
+  "name" : "test_aduit_ari_pass",
+  "time" : {
+    "start" : 1598433594316,
+    "stop" : 1598433614763,
+    "duration" : 20447
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fca7ca7d42dfea58",
+  "name" : "test_mp_login",
+  "time" : {
+    "start" : 1598518269590,
+    "stop" : 1598518271652,
+    "duration" : 2062
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "18572d2eedda72c1",
+  "name" : "test_end",
+  "time" : {
+    "start" : 1598433614772,
+    "stop" : 1598433621076,
+    "duration" : 6304
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e2d9296011696801",
+  "name" : "test_begin",
+  "time" : {
+    "start" : 1598433587185,
+    "stop" : 1598433587185,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b1381e612fbbb1",
+  "name" : "test_ari_publish[TEXTER_{}-测试测试测-go-新增文章成功]",
+  "time" : {
+    "start" : 1598518272710,
+    "stop" : 1598518283455,
+    "duration" : 10745
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+} ]

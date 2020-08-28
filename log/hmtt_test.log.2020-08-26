@@ -1,0 +1,4 @@
+2020-08-26 16:13:50,087 INFO [root] [test_aritcal_manage.py(test_aduit_ari_pass:40)] - 审核文章的标题为: TEXT_TEXT_20200826161320
+2020-08-26 16:55:46,524 INFO [root] [test_aritcal_manage.py(test_aduit_ari_pass:40)] - 审核文章的标题为: TEXT_TEXT_20200826165511
+2020-08-26 17:18:15,383 INFO [root] [test_aritcal_manage.py(test_aduit_ari_pass:40)] - 审核文章的标题为: TEXT_TEXT_20200826171737
+2020-08-26 17:19:54,317 INFO [root] [test_aritcal_manage.py(test_aduit_ari_pass:40)] - 审核文章的标题为: TEXT_TEXT_20200826171925

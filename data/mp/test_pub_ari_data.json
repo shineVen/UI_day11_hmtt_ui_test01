@@ -1,0 +1,14 @@
+{
+  "test_pub_ari": {
+    "ari_title": "TEXTER_{}",
+    "ari_context": "测试测试测",
+    "ari_channel_name": "go",
+    "expect": "新增文章成功"
+  },
+  "test_pub_ari_02": {
+    "ari_title": "TEXT_TEXT_{}",
+    "ari_context": "测试测试测试测试测试测试测试",
+    "ari_channel_name": "测试开发",
+    "expect": "新增文章成功"
+  }
+}

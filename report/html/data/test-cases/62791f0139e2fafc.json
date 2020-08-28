@@ -1,0 +1,99 @@
+{
+  "uid" : "62791f0139e2fafc",
+  "name" : "test_begin",
+  "fullName" : "case.mp.test_begin.TestBegin#test_begin",
+  "historyId" : "a4dfefd3d665390e4cb1d1df8884ef92",
+  "time" : {
+    "start" : 1598518263362,
+    "stop" : 1598518263362,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "run(order=1)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case.mp"
+  }, {
+    "name" : "suite",
+    "value" : "test_begin"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestBegin"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-EKFEJJK"
+  }, {
+    "name" : "thread",
+    "value" : "8004-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.mp.test_begin"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1ae2d676b6314e4f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598517161684,
+        "stop" : 1598517161685,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "bb3e0629b4bee22a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598517020580,
+        "stop" : 1598517020581,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "8b0bef57a5a68e3e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598514913727,
+        "stop" : 1598514913727,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "5410ca27c8d6abbb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598433546820,
+        "stop" : 1598433546821,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "bc445c2cf219b788",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598433438487,
+        "stop" : 1598433438490,
+        "duration" : 3
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "run(order=1)" ]
+  },
+  "source" : "62791f0139e2fafc.json",
+  "parameterValues" : [ ]
+}
